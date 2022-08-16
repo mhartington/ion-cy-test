@@ -1,0 +1,7 @@
+{
+  "name": "ion-cy-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
